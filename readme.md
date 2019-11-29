@@ -1,7 +1,7 @@
 
 
 
-# This Game is developed usign openGL 
+# This Game is developed using openGL 
 ## to run this on linux :
 1)g++ Bouncing_Ball.cpp -o main -lglut -lGLU -lGL
 
